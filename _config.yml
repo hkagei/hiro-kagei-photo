@@ -5,12 +5,12 @@ description: "Photo Journal"
 url: "https://hkagei.github.io"
 baseurl: "/hiro-kagei-photo"
 facebook_username: ""
-twitter_username: ""
+twitter_username: "hirokagei"
 instagram_username: "hirokagei"
 github_username:  "hkagei"
-deviantart_username: ""
-flickr_username: ""
-discus_shortname: ""
+# deviantart_username: ""
+# flickr_username: ""
+# discus_shortname: ""
 share: true
 
 # Owner/author information
