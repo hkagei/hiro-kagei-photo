@@ -1,13 +1,13 @@
 # Site settings
-title: PHOTORAMA
-email: ""
+title: HIRO KAGEI - PHOTOGRAPHY
+email: "k_dawg_1022@hotmail.com"
 description: "Photo Journal"
-url: "https://sunbliss.github.io"
-baseurl: "/photorama"
+url: "https://hkagei.github.io"
+baseurl: "/hiro-kagei-photo"
 facebook_username: ""
 twitter_username: ""
-instagram_username: ""
-github_username:  ""
+instagram_username: "hirokagei"
+github_username:  "hkagei"
 deviantart_username: ""
 flickr_username: ""
 discus_shortname: ""
